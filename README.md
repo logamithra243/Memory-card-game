@@ -6,11 +6,11 @@ This is a classic memory card game where players match pairs of cards. Built wit
 Features
 
 Grid of facedown cards,
-Card flipping and matching logic,
-Move counter,
-Timer,
-New Game button,
-Responsive design.
+ Card flipping and matching logic,
+ Move counter,
+ Timer,
+ New Game button,
+ Responsive design.
 
 Instructions
 
