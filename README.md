@@ -1,9 +1,9 @@
 Memory Card Game
 
-Description
+Description:
 This is a classic memory card game where players match pairs of cards. Built with HTML, CSS, and JavaScript, the game features a grid of facedown cards that flip to reveal hidden images when clicked. The goal is to find all matching pairs. The game tracks the number of moves and the time taken to complete it.
 
-Features
+Features:
 
 Grid of facedown cards,
  Card flipping and matching logic,
@@ -12,9 +12,9 @@ Grid of facedown cards,
  New Game button,
  Responsive design.
 
-Instructions
+Instructions:
 
-How to Play
+How to Play:
 
 Open index.html in your web browser.
 
