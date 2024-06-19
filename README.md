@@ -15,14 +15,24 @@ Grid of facedown cards,
 Instructions
 
 How to Play
+
 Open index.html in your web browser.
+
 Click cards to reveal hidden images.
+
 Match pairs to keep them face up.
+
 Mismatched cards flip back face down.
+
 Game ends when all pairs are matched.
+
 Move count and time are displayed.
+
 Click "New Game" to reset the game.
 
+
 Controls
+
 Click on cards to flip them.
+
 Click "New Game" to restart.
