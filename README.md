@@ -12,7 +12,7 @@ Grid of facedown cards,
  New Game button,
  Responsive design.
 
-Instructions:
+Instructions
 
 How to Play:
 
@@ -31,7 +31,7 @@ Move count and time are displayed.
 Click "New Game" to reset the game.
 
 
-Controls
+Controls:
 
 Click on cards to flip them.
 
