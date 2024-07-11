@@ -13,27 +13,30 @@ Grid of facedown cards,
  New Game button,
  Responsive design.
 
-Instructions:
+Setup
+Shuffle Cards: All cards are placed face down on the board and shuffled.
 
-How to Play:
+Arrange Cards: Cards are arranged in rows and columns, facing down.
 
-1. Open index.html in your web browser.
+Gameplay
+Turns: You will take turns flipping over two cards per turn.
 
-2. Click cards to reveal hidden images.
+Matching: If the two cards flipped over match (i.e., they have the same image), they are removed from the board, and you continue your turn.
 
-3. Match pairs to keep them face up.
+Mismatch: If the two cards do not match, they are flipped back face down, and it becomes your next turn.
 
-4. Mismatched cards flip back face down.
+Goal: The game continues until all pairs of cards are matched.
 
-5. Game ends when all pairs are matched.
+Rules
 
-6. Move count and time are displayed.
+Only two cards can be flipped over per turn.
+Memorize the positions of cards to make successful matches easier.
+Aim to complete the game in as few turns as possible to achieve a high score.
+How to Play
+Start the Game: Click on any two cards to reveal their images. Remember their positions.
 
-7. Click "New Game" to reset the game.
+Match the Cards: Try to remember which card is where and match pairs of identical cards by clicking on them in consecutive turns.
 
+Winning: The game ends when all pairs are matched. Challenge yourself to improve your score by completing the game in fewer turns.
 
-Controls:
-
-Click on cards to flip them.
-
-Click "New Game" to restart.
+Restart: If you want to restart the game, there is usually a "New Game" or "Restart" button available.
