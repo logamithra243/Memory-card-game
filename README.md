@@ -13,6 +13,7 @@ Grid of facedown cards,
  Responsive design.
 
 Instructions:
+
 How to Play:
 
 Open index.html in your web browser.
