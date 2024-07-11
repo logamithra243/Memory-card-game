@@ -1,6 +1,7 @@
 Memory Card Game
 
 Description:
+
 This is a classic memory card game where players match pairs of cards. Built with HTML, CSS, and JavaScript, the game features a grid of facedown cards that flip to reveal hidden images when clicked. The goal is to find all matching pairs. The game tracks the number of moves and the time taken to complete it.
 
 Features:
@@ -16,19 +17,19 @@ Instructions:
 
 How to Play:
 
-Open index.html in your web browser.
+1. Open index.html in your web browser.
 
-Click cards to reveal hidden images.
+2. Click cards to reveal hidden images.
 
-Match pairs to keep them face up.
+3. Match pairs to keep them face up.
 
-Mismatched cards flip back face down.
+4. Mismatched cards flip back face down.
 
-Game ends when all pairs are matched.
+5. Game ends when all pairs are matched.
 
-Move count and time are displayed.
+6. Move count and time are displayed.
 
-Click "New Game" to reset the game.
+7. Click "New Game" to reset the game.
 
 
 Controls:
