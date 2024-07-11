@@ -12,8 +12,7 @@ Grid of facedown cards,
  New Game button,
  Responsive design.
 
-Instructions
-
+Instructions:
 How to Play:
 
 Open index.html in your web browser.
